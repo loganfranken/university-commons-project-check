@@ -1,0 +1,3 @@
+[submodule "universitycommons.io"]
+	path = universitycommons.io
+	url = https://github.com/universitycommons/universitycommons.io
